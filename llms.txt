@@ -1,0 +1,42 @@
+# RealEstateDataCenter.com
+
+> Independent real estate intelligence for the data center economy.
+
+## What this site is
+
+RealEstateDataCenter.com is an independent data center real estate intelligence
+publication. It is primarily a blog and market-intelligence resource — not a
+consulting firm, brokerage, or sales page. Coverage focuses on the physical
+real estate behind the digital economy.
+
+## Who it is for
+
+Institutional investors, developers, appraisers, brokers, landowners,
+utilities, lenders, and other market participants who need credible data and
+analysis on the data center real estate market.
+
+## Core topics covered
+
+- Data center land and powered land
+- Data center site selection and land acquisition
+- Zoning, permitting, and entitlement risk
+- Power availability, grid access, substations, and transmission
+- Farmland conversion to data center use
+- Data center land valuation and real estate economics
+- Major data center markets (Northern Virginia, Texas, Phoenix, Atlanta,
+  Chicago, Ohio, Iowa, Europe)
+- Community and regulatory challenges in data center development
+
+## Editorial standing
+
+Independent, factual, and data-driven. Analysis is published for informational
+purposes and is not investment, legal, or appraisal advice.
+
+## Business inquiries
+
+Strategic partnerships, sponsorships, content syndication, and business
+inquiries are welcome: contact@realestatedatacenter.com
+
+## Key pages
+
+- Homepage: https://realestatedatacenter.com/
