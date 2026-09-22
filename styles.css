@@ -271,6 +271,30 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .article-card h3 a:hover { color: var(--blue); }
 .article-card > p:last-child { font-size: 0.95rem; color: var(--muted); }
 
+/* ---------- Article pages ---------- */
+.article-page { padding: 4rem 0 5rem; }
+.article-inner { max-width: 760px; }
+.article-inner .eyebrow { margin-bottom: 1rem; }
+.article-inner h1 {
+  font-size: clamp(2rem, 4.5vw, 3rem);
+  max-width: 20ch;
+  margin-bottom: 1rem;
+}
+.article-meta {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--line);
+}
+.article-body p { margin-bottom: 1.4rem; }
+.article-body h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); margin: 2.75rem 0 1.1rem; }
+.article-body hr { border: none; border-top: 1px solid var(--line); margin: 2.5rem 0 1.5rem; }
+.article-sources { font-size: 0.92rem; color: var(--muted); }
+
 /* ---------- Newsletter ---------- */
 .newsletter { background: var(--ink); color: #fff; }
 .newsletter h2 { color: #fff; margin-bottom: 0.75rem; }
