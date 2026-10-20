@@ -44,4 +44,4 @@ inquiries are welcome: contact@realestatedatacenter.com
 - "Powered Land: What Data Center Land Costs per Megawatt in 2026" (2026-09-29): https://realestatedatacenter.com/articles/powered-land-per-mw-2026/
 - "How to Underwrite a Data Center: An Appraiser's Checklist" (2026-09-30): https://realestatedatacenter.com/articles/how-to-underwrite-a-data-center/
 - "How to Value Data Center Land: The $/MW Method" (2026-10-15): https://realestatedatacenter.com/articles/how-to-value-data-center-land/
-<!-- rebuild trigger 2026-09-30 -->
+- "Data Center Construction Cost per MW in 2026: What's Included" (2026-10-20): https://realestatedatacenter.com/articles/data-center-construction-cost-per-mw-2026/
