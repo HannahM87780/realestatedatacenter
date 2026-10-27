@@ -46,3 +46,4 @@ inquiries are welcome: contact@realestatedatacenter.com
 - "How to Value Data Center Land: The $/MW Method" (2026-10-15): https://realestatedatacenter.com/articles/how-to-value-data-center-land/
 - "Data Center Construction Cost per MW in 2026: What's Included" (2026-10-20): https://realestatedatacenter.com/articles/data-center-construction-cost-per-mw-2026/
 - "Average Data Center PUE in 2026, and What WUE Tells Investors" (2026-10-22): https://realestatedatacenter.com/articles/average-data-center-pue-2026/
+- "Do Data Centers Raise Your Electric Bill? What the Studies Actually Say" (2026-10-27): https://realestatedatacenter.com/articles/do-data-centers-raise-your-electric-bill/
