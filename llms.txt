@@ -48,3 +48,4 @@ inquiries are welcome: contact@realestatedatacenter.com
 - "Average Data Center PUE in 2026, and What WUE Tells Investors" (2026-10-22): https://realestatedatacenter.com/articles/average-data-center-pue-2026/
 - "Do Data Centers Raise Your Electric Bill? What the Studies Actually Say" (2026-10-27): https://realestatedatacenter.com/articles/do-data-centers-raise-your-electric-bill/
 - "Data Center Tax Incentives by State: The 2026 Scorecard" (2026-10-29): https://realestatedatacenter.com/articles/data-center-tax-incentives-by-state-2026/
+- "What Is Behind-the-Meter Power for a Data Center, and What It Changes in Underwriting" (2026-11-03): https://realestatedatacenter.com/articles/what-is-behind-the-meter-power-data-center/
