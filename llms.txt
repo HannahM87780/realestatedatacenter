@@ -51,3 +51,5 @@ inquiries are welcome: contact@realestatedatacenter.com
 - "What Is Behind-the-Meter Power for a Data Center, and What It Changes in Underwriting" (2026-11-03): https://realestatedatacenter.com/articles/what-is-behind-the-meter-power-data-center/
 - "Data Center Land Cost per Acre in 2026: From $4,500 Farmland to $6.33 Million in Loudoun" (2026-11-05): https://realestatedatacenter.com/articles/data-center-land-cost-per-acre-2026/
 - "Data Center Sale Leaseback Cap Rates: Why the Rent Sets the Price" (2026-11-10): https://realestatedatacenter.com/articles/data-center-sale-leaseback-cap-rates/
+
+- "How Are Data Centers Financed: From Construction Loans to ABS" (2026-11-12): https://realestatedatacenter.com/articles/how-are-data-centers-financed/
