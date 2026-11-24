@@ -54,3 +54,4 @@ inquiries are welcome: contact@realestatedatacenter.com
 - "How Are Data Centers Financed: From Construction Loans to ABS" (2026-11-12): https://realestatedatacenter.com/articles/how-are-data-centers-financed/
 - "Data Center REIT vs. Direct Ownership Investing: Liquidity, Control, and the Price of Each" (2026-11-17): https://realestatedatacenter.com/articles/data-center-reit-vs-direct-ownership/
 - "Data Center Rent per kW per Month in 2026: Asking, Signed, and What Rent Leaves Out" (2026-11-19): https://realestatedatacenter.com/articles/data-center-rent-per-kw-per-month-2026/
+- "Hyperscale Data Center Site Selection Criteria: Power First, Then Everything Else" (2026-11-24): https://realestatedatacenter.com/articles/hyperscale-data-center-site-selection-criteria/
